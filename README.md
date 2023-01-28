@@ -1,6 +1,6 @@
 # Project
 
-![Calculator image](./src/img/project-img.png "Calculator")
+![Calculator image](./src/img/calculator.png "Calculator")
 
 # Getting Started with Create React App
 
